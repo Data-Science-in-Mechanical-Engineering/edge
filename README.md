@@ -6,7 +6,7 @@ This code was developed in __python 3.7.9__.
 
 ## Installation
 
-Clone the repository, and checkout the branch `l4dc-2021`. Create and activate a [virtual environment](https://docs.python.org/3/tutorial/venv.html) with a Python 3.7.9 interpreter. Then run in the project folder:
+Clone the repository. Create and activate a [virtual environment](https://docs.python.org/3/tutorial/venv.html) with a Python 3.7.9 interpreter. Then run in the project folder:
 ```
 pip3 install -r requirements.txt
 ```
